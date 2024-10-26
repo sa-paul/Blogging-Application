@@ -34,7 +34,7 @@ const About = () => {
           If you are interested, you can view some of my favorite projects here
           <Box component="span" style={{ marginLeft: 5 }}>
             <Link
-              href="https://github.com/koustav1002"
+              href="https://github.com/sa-paul"
               color="inherit"
               target="_blank"
             >
