@@ -16,3 +16,4 @@ This full-stack web application allows users to create accounts, publish blog po
 * ExpressJS
 * NodeJS
 * MongoDB
+* Cloudinary
